@@ -1,4 +1,4 @@
 genieva.github.io
 =================
 
-figuring it out
+Genieva's site

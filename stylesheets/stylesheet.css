@@ -904,10 +904,10 @@ footer .owner p a {
   box-sizing: border-box;
 }
 
-#StartOut_Pics img{
+#Portfolio_Pics img{
     transition 20s ease-in-out;
 } 
-#StartOut_Pics img:hover{
+#Portfolio_Pics img:hover{
     transform: scale(1.1);
 }
 

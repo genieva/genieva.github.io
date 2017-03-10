@@ -932,12 +932,13 @@ ul{
     
 }
 #nav li {
-    font-size: 1em;
+    font-size: 1.5em;
     display: inline;
     padding: 0em 1em 0 0.5em;
-    color: #b1b1a4;
+    color: white;
+  
 }
-a.nav:link, a.navr:active,a.nav:visited,a.nav:hover { color: #a5a59f;}
+a.nav:link, a.navr:active,a.nav:visited,a.nav:hover { color: white;}
 
 #hero{
     text-align: left;

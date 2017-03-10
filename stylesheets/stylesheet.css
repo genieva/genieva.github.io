@@ -918,9 +918,35 @@ footer .owner p a {
 #content h3, img{
     padding-left: 5%;
 }
+.Nav_Bar{
+    position: fixed;
+    top:0;
+    left: 0;
+    background: #009926;
+    border-bottom: 2px solid white;
+    height: 8%;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    
+}
+#nav li {
+    font-size: 1em;
+    display: inline;
+    padding: 0em 1em 0 0.5em;
+    color: #b1b1a4;
+}
+a.nav:link, a.navr:active,a.nav:visited,a.nav:hover { color: #a5a59f;}
+
+#hero{
+    text-align: left;
+    padding: 7.5em 0 1em 0;
+    font-size: 1em;
+}
 
 .highlight  { background: #ffffff; }
-.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .c { color: #b1b1a4; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
 .highlight .o { font-weight: bold } /* Operator */

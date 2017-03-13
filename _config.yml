@@ -1,0 +1,8 @@
+title: Genieva.github.io
+description: Work well, play well, fight well
+google_analytics: UA-54457392-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

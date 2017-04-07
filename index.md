@@ -20,9 +20,3 @@ Sasona is a cute little co-op located in South Austin. The old website hadn't be
  
 <img src="images/1%20-%20MainUI.png" alt="Main UI" height="400">
 </div>
-<style>
-.my_work div{
-    background-color: gray;
-    
-}
-</style>

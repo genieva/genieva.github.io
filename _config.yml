@@ -7,3 +7,7 @@ div class: my_work
 
 gems:
   - jekyll-mentions
+
+sass:
+  sass_dir: assets/css
+  style: :nested

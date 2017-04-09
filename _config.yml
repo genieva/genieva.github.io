@@ -5,8 +5,8 @@ show_downloads: false
 theme: jekyll-theme-cayman
 div class: my_work
 
-gems:
-  - jekyll-mentions
+#gems:
+#  - jekyll-mentions
 
 sass:
   sass_dir: assets/css

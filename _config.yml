@@ -3,7 +3,7 @@ description: Build well, live well
 google_analytics: UA-54457392-1
 show_downloads: false
 theme: jekyll-theme-architect
-div class: my_work
+#div class: my_work
 
 #gems:
 #  - jekyll-mentions

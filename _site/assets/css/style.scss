@@ -34,3 +34,4 @@
     transition-delay:         $delay;
 }
 .my_work { @include transition(.2s); }
+.my_work:hover { transform: scale(1.1); }

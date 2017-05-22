@@ -1,5 +1,3 @@
-
-
 ### Sasona
 Sasona is a cute little co-op located in South Austin. The old website hadn't been updated in ages, and was difficult to navigate. I wanted to make the new site more user-friendly. I think everyone is happier with the new site at <a href="https://sasona.org" target="_blank">Sasona.org</a>
 
@@ -18,7 +16,7 @@ Sasona is a cute little co-op located in South Austin. The old website hadn't be
 
 <img src="images/3%20-%20Address.png" alt="Enter Address" height="400">
 
-<img src="images/Slice.png" alt="Music Screen" height="400">
+<img src="images/music_edit.svg" alt="Music Screen" height="400">
  
 <img src="images/1%20-%20MainUI.png" alt="Main UI" height="400">
 </div>

@@ -1,5 +1,5 @@
 ### Sasona
-Sasona is a cute little co-op located in South Austin. The old website hadn't been updated in ages, and was difficult to navigate. I wanted to make the new site more user-friendly. I think everyone is happier with the new site at <a href="https://sasona.org" target="_blank">Sasona.org</a>
+Sasona is a housing co-op located in South Austin. The previous website, built in the early 2000s, was difficult to navigate and not responsive. I wanted to make the new site more user and mobile friendly. I think everyone is happier with the new site at <a href="https://sasona.org" target="_blank">Sasona.org</a>
 
 
 ### Intel Joule Hackathon November 2016

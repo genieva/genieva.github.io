@@ -1,16 +1,16 @@
 ### Sasona
-Sasona is a housing co-op located in South Austin. The previous website, built in the early 2000s, was difficult to navigate and not responsive. I wanted to make the new site more user and mobile friendly. I think everyone is happier with the new site at <a href="https://sasona.org" target="_blank">Sasona.org</a>
+Sasona is a housing co-op located in South Austin. The previous website, built in the early 2000s, was difficult to navigate and not responsive. I took on rebuilding Sasona's website to learn website design and make the new site more user and mobile friendly. <a href="https://sasona.org" target="_blank">Sasona.org</a>
 
 
 ### Intel Joule Hackathon November 2016
- For the Intel Joule Hackathon, I worked on programing the <a href="https://software.intel.com/en-us/iot/hardware/joule" target="_blank">Intel Joule</a>  to receive distance data from a camera a cyclists can clip on the back of their helmet. They would receive a vibration in the helmet to let them know there is an object accelerating behind them and they should move over. If there was a collision the camera would store the video and upload it to the "Cloud" where the user can retrieve the video from a web or app portal. I'm still working on this project.
+For the Intel Joule Hackathon, I worked on programing the <a href="https://software.intel.com/en-us/iot/hardware/joule" target="_blank">Intel Joule</a>  to receive distance data from a camera that a cyclists can clip on the back of their helmet. They would receive a vibration in the helmet to let them know there is an object accelerating behind them and they should move over. If there was a collision the camera would store the video and upload it to the user's account where they can retrieve the video from a web or app portal.
     
 <div class="my_work">
 <img src="images/BackOff_desktop.svg" alt="BackOffDesign" height="400">
 </div>
 
 ### StartOut hackathon February 2015
-<a href="https://startout.org" target="_blank">StartOut </a> is a non-profit advocating for LGBTQ entrepreneurs, and they host hackathons in various locations. I joined a group called "Follow the Music". We created a prototype for an app that would play music in the direction you needed to turn as a part of your directions. I created the User Interface in Proto.io
+<a href="https://startout.org" target="_blank">StartOut </a> is a non-profit advocating for LGBTQ entrepreneurs, who host hackathons in various locations. I joined a group called "Follow the Music". We created a prototype for an app that would play music in the direction you needed to turn as a part of your directions. I created the User Interface in Proto.io
 <div class="my_work">
 <img src="images/2%20-%20Home%20Screen.png" alt="Home Screen" height="400">
 

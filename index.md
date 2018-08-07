@@ -13,7 +13,7 @@ For the Intel Joule Hackathon, I worked on programing the <a href="https://softw
 </div>
 
 ### StartOut hackathon February 2015
-<a href="https://startout.org" target="_blank">StartOut </a> is a non-profit advocating for LGBTQ entrepreneurs, who host hackathons in various locations. I joined a group called "Follow the Music". We created a prototype for an app that would play music in the direction you needed to turn as a part of your directions. I created the User Interface in Proto.io
+<a href="https://startout.org" target="_blank">StartOut </a> is a non-profit advocating for LGBTQ entrepreneurs, who host hackathons in various locations. I joined a group called "Follow the Music". We created a prototype for an app that would play music in the direction you needed to turn as a part of your directions. I created the User Interface in Proto.io.
 <div class="my_work">
 <img src="images/2%20-%20Home%20Screen.png" alt="Home Screen" height="400">
 

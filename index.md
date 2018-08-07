@@ -22,4 +22,6 @@ For the Intel Joule Hackathon, I worked on programing the <a href="https://softw
 <!--<img src="images/music_edit.svg" alt="Music Screen" height="400">-->
  
 <img src="images/1%20-%20MainUI.png" alt="Main UI" height="400">
+
+<img src="images/Slice.png" alt="Main UI" height="400">
 </div>

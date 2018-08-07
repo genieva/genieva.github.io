@@ -8,7 +8,7 @@ Sasona is a housing co-op located in South Austin. The previous website, built i
 For the Intel Joule Hackathon, I worked on programing the <a href="https://software.intel.com/en-us/iot/hardware/joule" target="_blank">Intel Joule</a>  to receive distance data from a camera that cyclists can clip on the back of their helmet. They would receive a vibration in the helmet to let them know there is an object accelerating behind them and they should move over. If there was a collision the camera would store the video and upload it to the user's account where they can retrieve the video from a web or app portal.
     
 <div class="my_work">
-<img src="images/test.jpg" alt="Testing sensor on Joule" height="400>
+<img src="images/test.jpg" alt="Testing sensor on Joule" height="400">
 <img src="images/me.jpg" alt="Testing the camera" height="400">
 </div>
 

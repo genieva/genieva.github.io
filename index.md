@@ -15,10 +15,10 @@ For the Intel Joule Hackathon, I worked on programing the <a href="https://softw
 ### StartOut hackathon February 2015
 <a href="https://startout.org" target="_blank">StartOut </a> is a non-profit advocating for LGBTQ entrepreneurs, who host hackathons in various locations. I joined a group called "Follow the Music". We created a prototype for an app that would play music in the direction you needed to turn as a part of your directions. I created the User Interface in Proto.io.
 <div class="my_work">
-<img src="images/2%20-%20Home%20Screen.png" alt="Home Screen" height="400">
+<img src="images/HomeScreen.jpg" alt="Home Screen" height="400">
 
-<img src="images/3%20-%20Address.png" alt="Enter Address" height="400">
+<img src="images/Address.jpg" alt="Enter Address" height="400">
  
-<img src="images/1%20-%20MainUI.png" alt="Main UI" height="400">
-<img src="images/Slice.png" alt="Music Playlist" width="225" height="400">
+<img src="images/MainUI.jpg" alt="Main UI" height="400">
+<img src="images/Music.jpg" alt="Music Playlist" width="225" height="400">
 </div>

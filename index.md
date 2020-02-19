@@ -1,3 +1,7 @@
+### Pet Resumes
+<div class="my_work">
+<img src="images/test.jpg" alt="I am testing the sensor on Joule" width="250" height="300">
+</div>
 
 ### Sasona
 Sasona is a housing co-op located in South Austin. The previous website, built in the early 2000s, was difficult to navigate and not responsive. I took on rebuilding Sasona's website to learn website design and make the new site more user and mobile friendly. <a href="https://sasona.org" target="_blank">Sasona.org</a>

@@ -1,6 +1,6 @@
 ### Pet Resumes
 <div class="my_work">
-<img src="images/test.jpg" alt="I am testing the sensor on Joule" width="250" height="300">
+<img src="images/sol.png" alt="My dog Sol jumping in the air catching snow in his mouth">
 </div>
 
 ### Sasona

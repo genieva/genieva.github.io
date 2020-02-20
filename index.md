@@ -10,7 +10,7 @@ In my growing obsession with InDesign, I created pet resumes to showcase my desi
 
 ### FareHarbor
 Web Content Specialists create resumes for FareHarbor clients. Once sites go live, clients have the ability to edit their sites as needed, giving them the autonomy over their website. They can also have a Live Sites Specialist edit their site, and we offer two annual SEO audits. I am listing my favorite clients, they offer interesting activities in their region.
-<a href="https://www.puertoricobiobaytours.com/"> Puerto Rico Bio Bay Tours</a>
+<a href="https://www.puertoricobiobaytours.com/"> Puerto Rico Bio Bay Tours</a>  <br /> 
 <a href="https://milwaukeekayaktours.com/"> Milwaukee Kayak Tours</a>
 
 ### Sasona

@@ -1,7 +1,7 @@
 ### Pet Resumes
 <div class="my_work">
 <img src="images/Sol.png" alt="My dog Sol jumping in the air catching snow in his mouth">
-<img src="images/enzo.png" alt="My dog Sol jumping in the air catching snow in his mouth">
+<img src="images/enzo.png" alt="Tuxedo cat looking stoic with sepia background">
 </div>
 
 ### Sasona

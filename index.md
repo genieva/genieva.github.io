@@ -1,4 +1,4 @@
-### Genieva's Projects
+# Genieva's Projects
 A collection of projects from my professional experience, personal work, and hackathons.
 
 ### Pet Resumes

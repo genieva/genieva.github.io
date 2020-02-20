@@ -9,10 +9,11 @@ In my growing obsession with InDesign, I created pet resumes to showcase my desi
 </div>
 
 ### FareHarbor
-Web Content Specialists create resumes for FareHarbor clients. Once sites go live, clients have the ability to edit their sites as needed, giving them the autonomy over their website. They can also have a Live Sites Specialist edit their site to add new content and clean up outdated links. I am listing my favorite clients, they offer interesting activities in their region.
+Web Content Specialists create resumes for FareHarbor clients. Once sites go live, a Live Sites Specialist train the clients to edit their sites so that they can keep their activities updated. the ability to edit their sites as needed, giving them the autonomy over their website. They can also have a Live Sites Specialist edit their site to add new content and clean up outdated links. I am listing my favorite clients, they offer interesting activities in their region.<br />
 <a href="https://www.puertoricobiobaytours.com/"> Puerto Rico Bio Bay Tours</a>  <br /> 
+<a href="https://snohomishballoonride.com/"> Snohomish Balloon Rides</a> <br />
 <a href="https://milwaukeekayaktours.com/"> Milwaukee Kayak Tours</a> <br />
-<a href="https://www.oldcovecanoe.com/"> Old Cove Canoe</a> 
+<a href="https://www.oldcovecanoe.com/"> Old Cove Canoe</a> <br />
 <a href="https://www.localtastesofnashville.com/"> Local Tastes of Nashville</a> <br />
 <a href="https://wolfcreeksleighrides.com/"> Wolf Creek Sleigh Rides </a>
 

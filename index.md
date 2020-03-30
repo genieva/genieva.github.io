@@ -2,7 +2,7 @@
 A collection of projects from my professional experience, personal work, and hackathons.
 
 ### Pet Resumes
-In my growing obsession with InDesign, I created pet resumes to showcase my design capabilities. 
+In my growing obsession with InDesign, I created pet resumes to experiment with various functionalities.  
 <div class="my_work">
 <img src="images/Sol.png" alt="My dog Sol jumping in the air catching snow in his mouth">
 <img src="images/enzo.png" alt="Tuxedo cat looking stoic with sepia background">
